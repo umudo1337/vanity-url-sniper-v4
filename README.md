@@ -9,8 +9,10 @@ discord url sniper isimden anlarsınız kips
 
 ## Kurulum
 
-1. Proje dosyalarını indirin ve src/nightcan/config.js doldurun
-2. src/index.js çalıştır cmd den node index.js yazarak
+1. Proje dosyalarını indirin ve nightcan/config.js doldurun
+2. claimer.js çalıştır cmd den node index.js yazarak
+
+3. bu kod nightcan tarafindan hazırlanmistir prim yok orospu evlatları 
 
 ```bash
 npm i install 
